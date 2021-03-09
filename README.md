@@ -1,2 +1,3 @@
 # kubernetes-alerting-lambda-sample
-Repository for our engineering blogpost 
+
+Repository for our engineering blogpost
